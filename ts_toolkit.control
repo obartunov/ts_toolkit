@@ -1,0 +1,4 @@
+comment = 'ts_score ranking function for fts (combination of ts_rank and ts_rank_cd)'
+default_version = '1.0'
+module_pathname = '$libdir/ts_toolkit'
+relocatable = true
